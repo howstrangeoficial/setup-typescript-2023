@@ -1,2 +1,2 @@
-# setup-typescript-2023
-Criando um setup 20223 para os meus projetos com typescript e nodejs.
+# setup-typescript-2022
+Criando um setup 2022 para os meus projetos com typescript e nodejs.
